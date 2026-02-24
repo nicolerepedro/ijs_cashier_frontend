@@ -8,7 +8,7 @@ import {
   FaCashRegister,
 } from "react-icons/fa";
 
-const primaryColor = "#008080";   // teal
+const primaryColor = "#908080";   // teal
 const accentColor = "#009150";    // emerald green
 
 const CashierLayout = () => {
